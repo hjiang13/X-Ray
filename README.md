@@ -1,2 +1,2 @@
 # X-Ray
-Explanation of resilience analysis  
+Explanation of Resilience AnalYsis  
